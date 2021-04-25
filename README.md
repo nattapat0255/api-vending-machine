@@ -44,3 +44,6 @@ POST http://localhost:5000/api/v1/sendmail (with JSON Body)
   "product_remaining": "10 
 }
 ```
+Example : Receive message from email
+![Image from iOS (1)](https://user-images.githubusercontent.com/81974292/116009077-bd109e00-a641-11eb-8ece-4c2852f7aff4.jpg)
+
