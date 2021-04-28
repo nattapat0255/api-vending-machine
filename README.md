@@ -12,7 +12,7 @@ export FLASK_APP=app
 ```
 flask run 
 ```
-### Email Configuration for sending & email
+### Email Configuration for sending and email
 ```
 export MAIL_USERNAME={{email_sender(Gmail Only)}}
 ```
